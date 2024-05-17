@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Rasel Mahmud</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel-mahmud-61&label=Profile%20views&color=0e75b6&style=flat" alt="rasel-mahmud-61" /> </p>
 <img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 - 🌱 I’m currently learning **TypeScript**
@@ -16,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rasel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rasel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rasel mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasel mahmud" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rasel12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rasel12" height="30" width="40" /></a>
 </p>
